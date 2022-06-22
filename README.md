@@ -1,8 +1,12 @@
 # Family Hardware
 
-Files used to create an online hardware store for my Web Applications Development course
+This repository contains files used to create an online hardware store for my Web Application Development course
 
-## Site.Master
+## Master Page
+
+This site uses a master page
+
+### Site.Master
 
 ```html
 <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Project2.Site" %>
