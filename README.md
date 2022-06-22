@@ -1,3 +1,3 @@
 # Family Hardware
-Some files for an online hardware store website
+Files used to create an online hardware store for my Web Applications Development class
 
