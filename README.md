@@ -1,9 +1,9 @@
 # Family Hardware
 Files used to create an online hardware store for my Web Applications Development course
 
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Project2.Site" %>
+    <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Project2.Site" %>
 
-<!DOCTYPE html>
+    <!DOCTYPE html>
 
 <html>
 <head runat="server">
