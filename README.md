@@ -2,6 +2,9 @@
 
 This repository contains files used to create an online hardware store for my Web Application Development course
 
+## Screenshots
+!(screenshots/homepage.png)
+
 ## Master Page
 
 This site uses a master page
